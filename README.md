@@ -28,3 +28,6 @@ Prediksi Harga Cryptocurrency
 code: ml_regresi_prediksi_harga_cryptocurrency.ipynb
 dataset: https://finance.yahoo.com/quote/BTC-USD/history?period1=1496264400&period2=1576706400&interval=1mo&filter=history&frequency=1mo
 
+Prakiraan Cuaca
+code: ml_timeseries_prakiraan_cuaca.ipynb
+dataset: DailyDelhiClimateTrain.csv
