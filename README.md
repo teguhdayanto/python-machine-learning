@@ -1,5 +1,8 @@
 # python-machine-learning
 
 code: ml_analisis_sentimen_imdb.ipynb
-database: IMDB_Dataset.rar
+dataset: IMDB_Dataset.rar
+
+code: ml_analisis_sentimen_imdb.ipynb
+dataset: spamhamteks.csv
 
