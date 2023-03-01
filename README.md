@@ -1,6 +1,8 @@
 # python-machine-learning
 
-
+Folder ini berisi contoh-contoh pemanfaatan machine learning dalam pembuatan model.
+Author: Teguh Dayanto
+        ig. @teguh.dayanto
 
 code: ml_analisis_sentimen_imdb.ipynb
 dataset: IMDB_Dataset.rar (need to be unzip)
