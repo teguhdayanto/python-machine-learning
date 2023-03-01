@@ -8,3 +8,6 @@ dataset: spamhamteks.csv
 
 code: ml_jual_mobil_bekas.ipynb
 dataset: cars_data.csv
+
+code: ml_klasifikasi_emosi_teks.ipynb
+dataset: train.txt
