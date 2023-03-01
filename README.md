@@ -1,4 +1,5 @@
 # python-machine-learning
 
-ml_analisis_sentimen_imdb.ipynb
-database: 
+code: ml_analisis_sentimen_imdb.ipynb
+database: IMDB_Dataset.rar
+
