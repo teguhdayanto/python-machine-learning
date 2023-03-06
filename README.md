@@ -7,7 +7,8 @@ Author: Teguh Dayanto
 Dasar-dasar Machine Learning
 code: basic_machine_learning_v01.ipynb
 code: basic_machine_learning_v02.ipynb
-dataset: 
+dataset: mobil.csv
+         komedi.csv
 
 Menentukan Apakah Suatu Konten Teks Merupakan Komentar Positif/Negatif
 code: ml_analisis_sentimen_imdb.ipynb
