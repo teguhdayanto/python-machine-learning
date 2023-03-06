@@ -1,8 +1,13 @@
 # python-machine-learning
 
-Folder ini berisi contoh-contoh pemanfaatan machine learning dalam pembuatan model.
+Berisi tentang basic machine learning beserta contoh-contoh pemanfaatan machine learning dalam pembuatan model.
 Author: Teguh Dayanto
         ig. @teguh.dayanto
+
+Dasar-dasar Machine Learning
+code: basic_machine_learning_v01.ipynb
+code: basic_machine_learning_v02.ipynb
+dataset: 
 
 Menentukan Apakah Suatu Konten Teks Merupakan Komentar Positif/Negatif
 code: ml_analisis_sentimen_imdb.ipynb
