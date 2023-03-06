@@ -5,6 +5,30 @@ Author: Teguh Dayanto
         ig. @teguh.dayanto
 
 Dasar-dasar Machine Learning
+    Permulaan
+    Dataset
+    Tipe data
+    Standar Deviasi
+    Percentile
+    Distribusi Data
+    Distribusi Data Normal
+    Plot Scatter
+    Regresi Linier
+    Regresi Polinomial
+    Regresi Berganda
+    Scale
+    Train / Test
+    Decision Tree
+    Confusion Matrix
+    Pengelompokan Hirarki
+    Logistic Regression
+    Grid Search
+    Categorical Data
+    K-means
+    Bootstrap Aggregation (Bagging)
+    Cross Validation
+    AUC - ROC Curve
+    K-nearest neighbors (KNN)
 code: basic_machine_learning_v01.ipynb
 code: basic_machine_learning_v02.ipynb
 dataset: mobil.csv
